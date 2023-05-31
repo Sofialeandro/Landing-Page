@@ -13,7 +13,10 @@ body {
   background-color: rgb(22, 21, 21);
   color: white;
 }
-
+.dark-mode .line-2 {
+  border-top: 1px solid white;
+  margin-top: 50px;
+}
 .dark-mode .button {
   width: 100%;
   color: white;
@@ -129,10 +132,7 @@ p {
   border-top: 1px solid black;
   margin-top: 50px;
 }
-.dark-mode .line-2 {
-  border-top: 1px solid white;
-  margin-top: 50px;
-}
+
 #footer {
   margin-top: 70px;
 }
