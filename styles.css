@@ -129,7 +129,10 @@ p {
   border-top: 1px solid black;
   margin-top: 50px;
 }
-
+.dark-mode .line-2 {
+  border-top: 1px solid white;
+  margin-top: 50px;
+}
 #footer {
   margin-top: 70px;
 }
